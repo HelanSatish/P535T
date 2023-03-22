@@ -1,2 +1,2 @@
 # P535T
-Mutation
+P535T is a mutation in KCNQ1 gene of the potassium ion channel KV7.1 of the cardiac cells. Ten Tusscher 2006 model is used to study the effect of P535T mutation in the cardiac ventricular cell as well as tissue and the propagation of electrical activity in the two dimensional tissue grid. Codes for a single cell, propagation in two dimensional tissue grid and pseudo ECG can be found in this repository.
